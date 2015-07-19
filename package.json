@@ -1,7 +1,7 @@
 {
   "name": "revigniter-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An Atom theme for proper syntax highlighting of LiveCode server and revIgniter source code.",
   "keywords": [
     "syntax",
