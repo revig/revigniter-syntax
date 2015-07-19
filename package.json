@@ -1,13 +1,13 @@
 {
   "name": "revigniter-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An Atom theme for proper syntax highlighting of LiveCode server and revIgniter source code.",
   "keywords": [
     "syntax",
     "theme",
-		"livecode",
-		"revigniter"
+    "livecode",
+    "revigniter"
   ],
   "repository": "https://github.com/revig/revigniter-syntax",
   "license": "MIT",
